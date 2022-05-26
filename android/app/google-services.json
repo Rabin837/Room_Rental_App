@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683493214627",
+    "project_id": "latestroomnepal",
+    "storage_bucket": "latestroomnepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683493214627:android:1de4c7380a73b434bff216",
+        "android_client_info": {
+          "package_name": "com.example.home_rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683493214627-15sh041su16h43rps9h8q09ignclgcps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf6Ez73XgkDnLyTVQBQUGhtwuAKvOnTmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683493214627-15sh041su16h43rps9h8q09ignclgcps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
